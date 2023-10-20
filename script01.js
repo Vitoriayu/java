@@ -1,9 +1,11 @@
 console.log("revisão javascripit");
-let ola; 
-ola= "ola";
+let ola;
+ola = "ola";
 console.log(ola);
 let nome = "vitoria";
 console.log(nome);
 let sobrenome;
-sobrenome ="santos";
+sobrenome = "santos";
 console.log(sobrenome);
+const nome2 = "fer";
+console.log(typeof(nome2));
